@@ -1,6 +1,6 @@
 KebabBuyer
 
-Old Runescape kebab buyer. Starts in Al-Karid buys kebabs and banks them for gold.
+Old Runescape kebab buyer. Starts in Al-Kharid buys kebabs and banks them for gold.
 
 Features:
   -Drawing Profit
